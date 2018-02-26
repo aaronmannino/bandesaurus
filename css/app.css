@@ -1,0 +1,90 @@
+body, html {
+    color: #fff;
+    background-image: url(../images/site-black-background.png);
+    font-family: "Lucida Bright", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+    font-family: "Lucida Bright", "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+
+h2 {
+    text-decoration: underline;
+    margin-bottom: 1%;
+}
+
+a, a:visited {
+    color: #ddd;
+}
+
+.page {
+    margin-top: 3%;
+}
+
+.social-buttons {
+    margin-right: 1%;
+}
+
+.header {
+    margin-bottom: 4%;
+}
+
+.header img {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.main-menu {
+    background-color: #76716F;
+    border: 1px solid;
+    margin-top: 2%;
+}
+
+.main-menu li {
+    border: 1px solid;
+    background-color: #5A5958;
+}
+
+.main-menu li.selected {
+    background-color: #000;
+}
+
+.main-menu li a:hover, a:active {
+    background-color: #000;
+    color: #fff;
+}
+
+@media only screen and (min-width: 40.063em) {
+    .main-menu li {
+    /* margin: 0 5%; */
+    }
+}
+
+.content {
+    margin-top: 4%;
+}
+
+.main-text {
+    margin: 0 3%;
+    background-image: url('../images/site-background.png');
+    padding: .5% 0;
+    color: black;
+}
+
+.main-text p {
+    padding: 0 8%;
+    text-align: justify;
+}
+
+.footer {
+    margin: 5% 0;
+}
+
+.footer p {
+    margin: 0;
+}
