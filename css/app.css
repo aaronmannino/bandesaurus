@@ -88,3 +88,7 @@ a, a:visited {
 .footer p {
     margin: 0;
 }
+
+.clue {
+    font-style: italic;
+}

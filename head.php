@@ -7,6 +7,7 @@
     <title><?php echo $meta_title; ?></title>
     <link rel="stylesheet" href="css/foundation.css">
     <link rel="stylesheet" href="css/app.css">
+    <link rel="icon" type="image/png" href="images/favicon-dino.png"">
   </head>
   <body>
         <div class="social-buttons small-text-left medium-text-right row">
@@ -17,3 +18,7 @@
           <div class="header">
             <h1>bandesaurus</h1>
           </div>
+        <p>Your new favorite game is coming.</p>
+        <p>I mean, the most favored pasttime of yours has nearly arrived.</p>
+          
+          <script src="js/form.js"></script>
