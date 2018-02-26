@@ -15,6 +15,5 @@
         </div>
       <div class="row page text-center">
           <div class="header">
-            <h1>aaron mannino</h1>
-            <img src="images/aaron-mannino-header.png"/>
+            <h1>bandesaurus</h1>
           </div>
